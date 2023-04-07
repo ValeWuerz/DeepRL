@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/valentin/coding/DeepRL/build",
+  "command": "/usr/bin/g++  -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/valentin/coding/DeepRL/libtorch/include -isystem /home/valentin/coding/DeepRL/libtorch/include/torch/csrc/api/include   -D_GLIBCXX_USE_CXX11_ABI=0 -g   -D_GLIBCXX_USE_CXX11_ABI=0 -o CMakeFiles/testing.dir/testing.cpp.o -c /home/valentin/coding/DeepRL/testing.cpp",
+  "file": "/home/valentin/coding/DeepRL/testing.cpp"
+},
+{
+  "directory": "/home/valentin/coding/DeepRL/build",
+  "command": "/usr/bin/g++     -D_GLIBCXX_USE_CXX11_ABI=0 -g   -o CMakeFiles/samples.dir/samples.cpp.o -c /home/valentin/coding/DeepRL/samples.cpp",
+  "file": "/home/valentin/coding/DeepRL/samples.cpp"
+},
+{
+  "directory": "/home/valentin/coding/DeepRL/build",
+  "command": "/usr/bin/g++  -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/valentin/coding/DeepRL/libtorch/include -isystem /home/valentin/coding/DeepRL/libtorch/include/torch/csrc/api/include   -D_GLIBCXX_USE_CXX11_ABI=0 -g   -D_GLIBCXX_USE_CXX11_ABI=0 -std=gnu++14 -o CMakeFiles/tensor.dir/tensor.cpp.o -c /home/valentin/coding/DeepRL/tensor.cpp",
+  "file": "/home/valentin/coding/DeepRL/tensor.cpp"
+}
+]

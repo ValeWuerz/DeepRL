@@ -1,0 +1,1 @@
+/usr/bin/g++   -D_GLIBCXX_USE_CXX11_ABI=0 -g  -rdynamic CMakeFiles/samples.dir/samples.cpp.o  -o samples 
